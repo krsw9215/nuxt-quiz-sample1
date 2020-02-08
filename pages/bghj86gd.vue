@@ -30,7 +30,8 @@ export default {
     return {
       keywords: ['たこ', 'タコ', 'tako'],
       clear: false,
-      badanswer: false
+      badanswer: false,
+      answer: ''
     }
   },
   methods: {
